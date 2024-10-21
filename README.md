@@ -1,7 +1,7 @@
 # Hi, I'm Yaroslav
 
 I'm junior C++ and C# game developer who is excited to create a game of his dreams. However, now I'm working on my Telegram bot, learning python backend. Also, I really enjoy painting and designing, so I tried my self in creating simple sites on JavaScript. I like to learn new things by working on my projects. Unfortunately, I don't have much free time now as I'm studying hard preparing for my exams at school. Nevertheless, I'll continue working on my project when I'm free.
-![alt text](https://github.com/Ho1ocron/Ho1ocron/blob/main/result-YpnWgE4ggu.png?raw=true)
+![alt text](https://github.com/Ho1ocron/Ho1ocron/blob/main/file.jpg?raw=true)
 ## My Hobbies
 - I enjoy drawing. My arts are very simple now as I'm just learning, but I'd like to develop my skills to that level so I can draw any anime character that I like :).
 - As you might notice, I'm of anime. I don't watch it very often and there isn't many anime that I like. However, I found that there're many great artits in fandoms and their pictures are awesome.
