@@ -7,9 +7,7 @@ JavaScript. I like to learn new things by working on my projects. Unfortunately,
 - I enjoy drawing. My arts are very simple now as I'm just learning, but I'd like to develop my skills to that level so I can draw any anime character that I like :).
 - As you might notice, I'm a fan of anime. I don't watch it very often and there aren't many anime that I like. However, I found that there're many great artits in fandoms and their pictures are awesome.
 - Well, I'm also keen on building houses in Minecraft. It's really exciting as I can build a house of my dreams. My favorite styles are modern and Victorians ones. Buildings in these styles look absolutly amazing.
-<div align="center">
-  <img src="https://github.com/Ho1ocron/Ho1ocron/blob/main/m2.jpg?raw=true">
-</div>
+
 <!--
 **Ho1ocron/Ho1ocron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
