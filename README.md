@@ -1,7 +1,6 @@
 # Hi, I'm Iaroslav!
 
-I'm junior C++ and C# game developer who is excited to create a game of his dreams. However, now I'm working on my Telegram bot, learning python backend. Also, I really enjoy painting and designing, so I tried my self in creating simple sites on 
-JavaScript. I like to learn new things by working on my projects. 
+I'm C#/C++ game developer and backend python developer. I'm also learning frontend and web in general. 
 
   
 
