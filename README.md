@@ -3,9 +3,6 @@
 I'm junior C++ and C# game developer who is excited to create a game of his dreams. However, now I'm working on my Telegram bot, learning python backend. Also, I really enjoy painting and designing, so I tried my self in creating simple sites on 
 JavaScript. I like to learn new things by working on my projects. 
 
-## My Hobbies
-- Well, I'm keen on building houses in Minecraft. It's really exciting as I can build a house of my dreams. My favorite styles are modern and Victorians ones. Buildings in these styles look absolutly amazing.
-- I enjoy programming as it's actually fun to code something that has just that functions that you need.                                                                         
   
 
 <!--
