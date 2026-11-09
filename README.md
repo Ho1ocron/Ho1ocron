@@ -1,6 +1,6 @@
 # Hi, I'm Iaroslav!
 
-I'm C#/C++ game developer and backend python developer. I'm also learning frontend and web in general. 
+I'm C#/C++ game developer and backend python developer.
 
   
 
